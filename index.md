@@ -13,4 +13,4 @@ Journalists cybersecurity training and availability of relevant tools are now st
 [One of Germany’s largest newspaper publishers, Funke Media Group, attacked by ransomware](https://blog.cyberplural.com/funke-media-group-attacked-by-ransomware/)
 
 
-!()[./qr.png]
+![https://datastory.cz/ebu-handout/](./qr.png)
