@@ -18,6 +18,7 @@ We started with podcast series Cookies and continuing from basics to more advanc
 
 [How mercenary hackers sway litigation battles](https://www.reuters.com/investigates/special-report/usa-hackers-litigation/)
 
+[Cookies podcast](https://www.mujrozhlas.cz/cookies)
 
 ### Debunking lab
 
