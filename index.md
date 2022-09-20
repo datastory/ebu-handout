@@ -11,3 +11,6 @@ Journalists cybersecurity training and availability of relevant tools are now st
 [De: Suspected ransomware: “Cyber attack” on the Madsack publishing group](https://www.databreaches.net/de-suspected-ransomware-cyber-attack-on-the-madsack-publishing-group/)
 
 [One of Germany’s largest newspaper publishers, Funke Media Group, attacked by ransomware](https://blog.cyberplural.com/funke-media-group-attacked-by-ransomware/)
+
+
+!()[./qr.png]
