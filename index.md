@@ -12,5 +12,15 @@ Journalists cybersecurity training and availability of relevant tools are now st
 
 [One of Germany’s largest newspaper publishers, Funke Media Group, attacked by ransomware](https://blog.cyberplural.com/funke-media-group-attacked-by-ransomware/)
 
+[How mercenary hackers sway litigation battles](https://www.reuters.com/investigates/special-report/usa-hackers-litigation/)
+
+
+### Debunking lab
+
+Fake news debunking is often tied with controversy with connection to topic selection. Czech radio handed this problem to listeners and readers, who could send questionable content to verification. This way, more impartial stance to debunking was achieved, leading to more percieved trust to the project.
+
+[Debunking lab (Ověřovna)](https://www.irozhlas.cz/zpravy-tag/overovna)
+
+Link to the handout: https://datastory.cz/ebu-handout/
 
 ![https://datastory.cz/ebu-handout/](./qr.png)
