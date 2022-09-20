@@ -6,6 +6,10 @@ Publishing houses are commonly targeted with opportinistics cyberattacks like ra
 
 Journalists cybersecurity training and availability of relevant tools are now starting gain on importance as it’s critical to keep up with developing threats.
 
+At the same time our readers and listeners are facing cybercrime, too. So we are using knowledge gained in securing our reporters to explain basic concepts to our audience. 
+
+We started with podcast series Cookies and continuing from basics to more advanced topics connected with surveilannce business models and challenges to our democracy brought by new online technologies.
+
 [The Crippling Ransomware Attack on a San Francisco NPR Member Station](https://www.kqed.org/futureofyou/436414/the-crippling-ransomware-attack-on-kqed-the-inside-story)
 
 [De: Suspected ransomware: “Cyber attack” on the Madsack publishing group](https://www.databreaches.net/de-suspected-ransomware-cyber-attack-on-the-madsack-publishing-group/)
